@@ -63,8 +63,8 @@ top_k_probs, top_k_indices = torch.topk(probabilities, k=3, dim=-1)
 ---
 
 **Error Analysis**:
-- Systemic biases are observed towards certain structured data.
-- Unsloth Zephyr has a clear advantage when handling code-like syntax (e.g., `def calculate_sum(a, b)`).
+- Systemic biases are observed towards certain structured data. For example, Unsloth Zephyr
+  has a clear advantage when handling code-like syntax (e.g., `def calculate_sum(a, b)`).
 
 # Conclusion
 This project demonstrates that **Unsloth Zephyr** and **GPT-2** achieve about the same performance on normal English text.
