@@ -37,6 +37,7 @@ o	Expanding to next-phrase prediction instead of next-word only.
 Takeaway:  Smaller, efficient models like Unsloth Zephyr can achieve competitive results in typing scenarios while offering better robustness against noisy real-world input!
 ________________________________________
 Screenshot:
+
 ![image](https://github.com/user-attachments/assets/cd446339-8659-42b4-bf06-88a5a3f0567f)
 ![image](https://github.com/user-attachments/assets/bdfdf1bf-1d5e-4ec3-85a2-af0bdaf33c8f)
 
