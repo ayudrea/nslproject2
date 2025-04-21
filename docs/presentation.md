@@ -1,5 +1,5 @@
 # Next-Word Prediction While Typing a Message
-**Zhihe Tu**
+Zhihe Tu
 
 ---
 
