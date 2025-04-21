@@ -4,7 +4,7 @@ I compare two transformer-based models, GPT-2 and Unsloth Zephyr (4-bit quantize
 ________________________________________
 Goals
 •	Investigate how well different language models can predict the next word while typing.
-•	Evaluate model robustness under both normal and stress-testing conditions.
+•	Evaluate model performance under both normal and stress-testing conditions.
 •	Identify systemic biases and weaknesses (e.g., struggles with typos, code-like syntax).
 •	Recommend future improvements for real-world typing assistance systems.
 ________________________________________
