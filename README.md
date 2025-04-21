@@ -50,8 +50,10 @@ I compare two transformer-based models, GPT-2 and Unsloth Zephyr (4-bit quantize
 
 # Takeaway
 Smaller, efficient models like **Unsloth Zephyr** can achieve competitive results in typing scenarios while offering better robustness against noisy real-world input.
+
 ---
 # Screenshot
+
 ![image](https://github.com/user-attachments/assets/cd446339-8659-42b4-bf06-88a5a3f0567f)
 ![image](https://github.com/user-attachments/assets/bdfdf1bf-1d5e-4ec3-85a2-af0bdaf33c8f)
 
