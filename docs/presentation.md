@@ -63,7 +63,7 @@ top_k_probs, top_k_indices = torch.topk(probabilities, k=3, dim=-1)
 ---
 
 **Error Analysis**:
-- Systemic biases are observed towards structured or code-like data.
+- Systemic biases are observed towards certain structured data.
 - **Unsloth Zephyr** has a clear advantage when handling code-like syntax (e.g., `def calculate_sum(a, b)`).
 
 # Conclusion
